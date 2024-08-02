@@ -1,9 +1,9 @@
 - 👋 Hi, I'm Sultan!
-- 🔍 **Data Scientist | 🔧 Data Engineer**
+- 🔍 **Data Scientist | 🔧 Data Engineer | 📊 Data Analyst**
 - 💻 Passionate about turning data into actionable insights and building robust data pipelines.
 - 🚀 Skills & Technologies:
 ```
-    Data Science: Python, R, SQL, Machine Learning, Deep Learning
+    **Data Science:** Python, R, SQL, Machine Learning, Deep Learning
     Data Engineering: ETL, Apache Spark, Hadoop, Airflow
     Tools: Jupyter, TensorFlow, Pandas, NumPy, Scikit-learn
     Databases: MySQL, PostgreSQL, MongoDB, Cassandra
