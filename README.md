@@ -22,13 +22,7 @@
     Exploring advancements in big data technologies and tools.
     Keeping up-to-date with industry best practices and trends.
 ```
-- 🌟 I'm Interested In:
-'''
-    Natural Language Processing (NLP): Analyzing and understanding human language.
-    Big Data: Leveraging large-scale data to drive decision-making.
-    Artificial Intelligence (AI): Developing intelligent systems and applications.
-    Data Visualization: Crafting compelling stories through data.
-'''
+- 🌟 I'm Interested in Natural Language Processing (NLP), Big Data, Artificial Intelligence (AI), Data Visualization
 - 🌐 Connect with Me:
 LinkedIn - [Muhammad Sultan](https://www.linkedin.com/in/muhammad-sultan-2a7669304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 Email - ransul267@gmail.com
