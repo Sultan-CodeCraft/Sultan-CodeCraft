@@ -3,10 +3,11 @@
 - 💻 Passionate about turning data into actionable insights and building robust data pipelines.
 - 🚀 Skills & Technologies:
 ```
-    **Data Science:** Python, R, SQL, Machine Learning, Deep Learning
-    Data Engineering: ETL, Apache Spark, Hadoop, Airflow
+    Data Science: Python, R, SQL, Machine Learning, Deep Learning
+    Data Analysis: Statistical Analysis, Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA)
+    Data Engineering: Data Scraping,Big Data
     Tools: Jupyter, TensorFlow, Pandas, NumPy, Scikit-learn
-    Databases: MySQL, PostgreSQL, MongoDB, Cassandra
+    Databases: MySQL (Oracle,My Sql,Sql Server)
     Visualization: Matplotlib, Seaborn, Tableau, Power BI
 ``` 
 - 📈 Current Projects:
@@ -21,6 +22,13 @@
     Exploring advancements in big data technologies and tools.
     Keeping up-to-date with industry best practices and trends.
 ```
+- 🌟 I'm Interested In:
+'''
+    Natural Language Processing (NLP): Analyzing and understanding human language.
+    Big Data: Leveraging large-scale data to drive decision-making.
+    Artificial Intelligence (AI): Developing intelligent systems and applications.
+    Data Visualization: Crafting compelling stories through data.
+'''
 - 🌐 Connect with Me:
 LinkedIn - [Muhammad Sultan](https://www.linkedin.com/in/muhammad-sultan-2a7669304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 Email - ransul267@gmail.com
