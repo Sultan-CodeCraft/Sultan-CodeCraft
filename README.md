@@ -16,6 +16,5 @@
    - Exploring advancements in big data technologies and tools.
    - Keeping up-to-date with industry best practices and trends.
 🌐 Connect with Me:
-LinkedIn
-Twitter
-Email
+LinkedIn - Muhammad Sultan
+Email - ransul267@gmail.com
