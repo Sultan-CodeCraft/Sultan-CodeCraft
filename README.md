@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Sultan!
-- 🔍 **Data Scientist | 🔧 Data Engineer | 📊 Data Analyst**
+- 🔍 **Data Scientist | 🔧 Data Engineer | 📊 Big Data**
 - 💻 Passionate about turning data into actionable insights and building robust data pipelines.
 - 🚀 Skills & Technologies:
 ```
