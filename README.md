@@ -1,9 +1,7 @@
 - 👋 Hi, I'm Sultan!
 - 🔍 Data Scientist | 🔧 Data Engineer | 📊 Big Data analytics
-
-Passionate about transforming data into actionable insights and building scalable data pipelines.
-
-Skills & Technologies:
+- 💻 Passionate about transforming data into actionable insights and building scalable data pipelines.
+- 🚀 Skills & Technologies:
 
 Data Science: Python, R, SQL, Machine Learning, Deep Learning
 Data Engineering: Data Scraping, Big Data Technologies
